@@ -1,0 +1,48 @@
+/// DÉROULÉ D'UN PROJET AU POLE DE PRODUCTION ///
+
+	*I. La préproduction :*
+
+		a. Reccueil des besoins
+
+	Premiers contacts avec le client.
+			
+			1. le propos du client
+		- Où?
+		- Quand?
+		- Comment?
+		- Pour qui?
+		
+			2. Definition de l'arborescence
+		
+	A partir des besoins du client il faut commencer a structurer le contenus et a l'organiser par page. Ce qui va nous donner l'arborescence.
+		
+					--- Validation client ---
+		
+			3. Zonning
+		
+	A partir des principaux elements de contenus et de l'arborescence on commence à definire le zoning responsive ( mobil first! ) - Definition de la gride CSS - 
+	
+		- Sur les pages principales (home, page contenus...)
+		
+					--- Validation client ---
+							
+		- Sur les pages secondaires (articles, contacts...)
+		
+					--- Validation client ---
+				
+		- Creation du zoning online( mobil first ).
+
+		
+	 		4. Wireframe
+			
+	Une fois le zoning validé on le complete avec des elements de contenus afin de verifier la validité de la structure mise en place.
+	
+	Reflexion sur la strucure liée aux class CSS
+		- Titres, sous-titres, elements structurants...
+		- Paragraphes (entêtes, mise en valeurs, strong, italique... )
+		- Blocs (marges, background, padding)
+		- Minimiser les elements particuliers.
+		
+		
+		
+		
