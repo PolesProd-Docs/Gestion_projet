@@ -18,7 +18,7 @@
 		
 					--- Validation client ---
 		
-			3. Zonning
+			3. <a href="https://lepoles.org">Zonning</a>
 		
 	A partir des principaux elements de contenus et de l'arborescence on commence à definire le zoning responsive ( mobil first! ) - Definition de la gride CSS - 
 	
@@ -43,6 +43,6 @@
 		- Blocs (marges, background, padding)
 		- Minimiser les elements particuliers.
 		
-		
+	
 		
 		
